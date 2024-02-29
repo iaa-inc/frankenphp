@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/iaa-inc/frankenphp/compare/v1.0.1...v1.0.2) (2024-02-29)
+
+
+### Miscellaneous Chores
+
+* derp ([efd5f85](https://github.com/iaa-inc/frankenphp/commit/efd5f8522c5956f210bfa251e5773d819042183d))
+
 ## [1.0.1](https://github.com/iaa-inc/frankenphp/compare/v1.0.0...v1.0.1) (2024-02-29)
 
 
