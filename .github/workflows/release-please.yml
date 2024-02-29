@@ -6,7 +6,7 @@ on:
 name: release-please
 
 concurrency:
-  group: release-please-${{ github.ref }}
+  group: release-please-frankenphp-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
