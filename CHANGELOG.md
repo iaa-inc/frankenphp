@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/iaa-inc/frankenphp/compare/v1.0.2...v1.0.3) (2024-06-13)
+
+
+### Bug Fixes
+
+* multi-arch builds ([772398e](https://github.com/iaa-inc/frankenphp/commit/772398ef5032ccbb095ac29b3f5e5efda4a23196))
+
 ## [1.0.2](https://github.com/iaa-inc/frankenphp/compare/v1.0.1...v1.0.2) (2024-02-29)
 
 
