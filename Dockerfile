@@ -1,4 +1,9 @@
-FROM dunglas/frankenphp
+# frankenphp tags are of the format {frankenphp_version}-php{php_version}
+# It should be noted that besides frankenphp and php, this image may also
+# contain updates of other "below rail" type dependancies like Caddy and Mercure.
+# Therefore besides the obvious testing, basically anything configured in the Caddyfile
+# should be tested against new versions of the frankenphp image before deploying to prod
+FROM dunglas/frankenphp:1.9.0-php8.4.11
 
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 
