@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/iaa-inc/frankenphp/compare/v1.0.4...v1.0.5) (2025-10-20)
+
+
+### Miscellaneous Chores
+
+* **deps:** FrankenPHP 1.9.1 && PHP 8.4.3 ([d03d7f7](https://github.com/iaa-inc/frankenphp/commit/d03d7f77aecea2ba3252580ee308efaac3919c9a))
+
 ## [1.0.4](https://github.com/iaa-inc/frankenphp/compare/v1.0.3...v1.0.4) (2025-08-19)
 
 
