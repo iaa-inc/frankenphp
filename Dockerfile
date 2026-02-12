@@ -3,7 +3,7 @@
 # contain updates of other "below rail" type dependancies like Caddy and Mercure.
 # Therefore besides the obvious testing, basically anything configured in the Caddyfile
 # should be tested against new versions of the frankenphp image before deploying to prod
-FROM dunglas/frankenphp:1.11.1-php8.4.17
+FROM dunglas/frankenphp:1.11.2-php8.4.17
 
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 
