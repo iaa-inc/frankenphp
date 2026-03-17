@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.8](https://github.com/iaa-inc/frankenphp/compare/v1.0.7...v1.0.8) (2026-03-17)
+
+
+### Miscellaneous Chores
+
+* dunglas/frankenphp:1.12.1-php8.4.19 ([73f2fce](https://github.com/iaa-inc/frankenphp/commit/73f2fcea651f0953f1ebce1d2c270adfeacf2167))
+
 ## [1.0.7](https://github.com/iaa-inc/frankenphp/compare/v1.0.6...v1.0.7) (2026-02-12)
 
 
