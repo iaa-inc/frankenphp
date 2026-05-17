@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.9](https://github.com/iaa-inc/frankenphp/compare/v1.0.8...v1.0.9) (2026-05-17)
+
+
+### Miscellaneous Chores
+
+* frankenphp 1.12.3, php 8.4.21 ([f2e8419](https://github.com/iaa-inc/frankenphp/commit/f2e8419a7a44c22abc0de90e2369c0291139e71f))
+
 ## [1.0.8](https://github.com/iaa-inc/frankenphp/compare/v1.0.7...v1.0.8) (2026-03-17)
 
 
